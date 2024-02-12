@@ -31,6 +31,8 @@ $recipes = [
     >
 </head>
 <body>
+
+
 <div class="container">
     <h1>Affichage des recettes</h1>
     <!-- Boucle sur les recettes -->
@@ -45,6 +47,7 @@ $recipes = [
 
         <?php endif; ?>
     <?php endforeach ?>
+
 </div>
 </body>
 </html>
